@@ -8,6 +8,7 @@ namespace trenirovka
 {
     internal class Bookstore
     {
-        int i = Convert.ToInt32(Console.ReadLine());
+        int p = Convert.ToInt32(Console.ReadLine());
+        int m = p + 2;
     }
 }

@@ -8,5 +8,6 @@ namespace trenirovka
 {
     internal class oplata
     {
+        //доработать 
     }
 }
