@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace trenirovka
 {
-    internal class Bookstore
+    internal class oplata
     {
-        int i = Convert.ToInt32(Console.ReadLine());
     }
 }
