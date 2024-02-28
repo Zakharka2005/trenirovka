@@ -10,5 +10,12 @@ namespace trenirovka
     {
         int p = Convert.ToInt32(Console.ReadLine());
         int m = p + 2;
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine();
+            //Изменения не предусмотены 
+        }
+       
     }
 }
