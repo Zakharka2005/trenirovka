@@ -15,7 +15,8 @@ namespace trenirovka
             Console.WriteLine("Hello, World!");
             Console.WriteLine();
             //Изменения не предусмотены 
+            int d = 5;
         }
-       
+
     }
 }
