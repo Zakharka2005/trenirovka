@@ -16,6 +16,7 @@ namespace trenirovka
             Console.WriteLine();
             //Изменения не предусмотены 
             int d = 5;
+            d = 5 + 3;
         }
 
     }
