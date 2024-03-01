@@ -8,5 +8,6 @@ namespace trenirovka
 {
     internal class User
     {
+        int a = 5;
     }
 }
